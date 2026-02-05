@@ -1,4 +1,4 @@
-# WanderLust 🌍
+# WanderLust 
 
 ## Overview
 WanderLust is a full-stack web application inspired by Airbnb, developed to manage property listings and bookings.  
